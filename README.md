@@ -2,11 +2,31 @@
 
 Use Expo snacks and import, test on mobile phone
 
-# Function:
-- Sidebar
-- Weather forecast
-- Sun Rise & Solar Noon & Sun Light
-- Earthquake Area
+# Screenshots
+Home
+<br>
+<img src="https://github.com/mazecate/rn-expo-weather-app/blob/main/screenshots/home.png" alt="home.png" width="400"/>
+<br>
+<br>
+Sidebar
+<br>
+<img src="https://github.com/mazecate/rn-expo-weather-app/blob/main/screenshots/sidebar.png" alt="sidebar.png" width="400"/>
+<br>
+<br>
+Weather forecast
+<br>
+<img src="https://github.com/mazecate/rn-expo-weather-app/blob/main/screenshots/weather_forecast.png" alt="weather_forecast.png" width="400"/>
+<br>
+<br>
+Sun Rise & Solar Noon & Sun Light
+<br>
+<img src="https://github.com/mazecate/rn-expo-weather-app/blob/main/screenshots/sunrise.png" alt="sunrise.png" width="200"/>
+<br>
+<br>
+Earthquake Area
+<br>
+<img src="https://github.com/mazecate/rn-expo-weather-app/blob/main/screenshots/Earthquake.png" alt="Earthquake.png" width="200"/>
+  
 
 
 Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
